@@ -1,7 +1,7 @@
 #  Credit Risk Default Prediction: A Production-Grade Machine Learning Approach
 
 **Author:** [Poonyanuch Hengtamcharoen]  
-**Background:** Finance professional transitioning into Data Science.  
+**Background:** Finance  
 **Tech Stack:** Python, Pandas, Scikit-Learn, Imbalanced-Learn (SMOTE), XGBoost, SHAP
 
 ･:･ ⌒♡*:･。 ⌒♥ ✧*:･ﾟ✧ ☆ﾟ.*･｡ﾟ *:･ﾟ★  ★｡･
